@@ -20,7 +20,7 @@ idna==3.7
 incremental==22.10.0
 itemadapter==0.8.0
 itemloaders==1.1.0
-jmespath==1.0.1
+jmespath
 lxml==5.2.1
 packaging==24.0
 parsel==1.9.1
