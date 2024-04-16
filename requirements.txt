@@ -54,3 +54,4 @@ urllib3
 w3lib
 websockets
 zope.interface
+scrapy-fake-useragent
